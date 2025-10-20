@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>   
-      <h1>Test React PUP Lublin</h1>  
+      <h1>Test React PUP</h1>  
         <Link to="/">Home</Link>
         <p> </p>
         <Link to="/about">About</Link>
